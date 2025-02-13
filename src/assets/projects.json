@@ -1,0 +1,18 @@
+[
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
+      "title": "Knight Wrath",
+      "description": "Un langage de programmation polyvalent utilisé pour l'IA, le web et plus."
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "title": "JavaScript",
+      "description": "Le langage du web pour des applications dynamiques et interactives."
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "title": "Java",
+      "description": "Un langage robuste et multi-plateforme pour le développement d'entreprise."
+    }
+  ]
+  
