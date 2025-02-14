@@ -33,30 +33,33 @@
   const cards = ref([
     {
       images: [
-        require('@/assets/logo.png'),
-        require('@/assets/logo.png'),
-        require('@/assets/logo.png'),
+        require('@/assets/knight/1.png'),
+        require('@/assets/knight/2.png'),
+        require('@/assets/knight/3.png'),
+        require('@/assets/knight/4.png'),
       ],
-      title: 'Knight Wrath',
+      title: 'Jeu 3D avec Unity',
       description: 'Jeu de type Hack\'n Slash développé avec Unity',
     },
     {
       images: [
-        require('@/assets/logo.png'),
-        'https://via.placeholder.com/150/0000FF',
-        'https://via.placeholder.com/150/FF0000',
+        require('@/assets/land/2.png'),
+        require('@/assets/land/1.png'),
+        require('@/assets/land/3.png'),
+        require('@/assets/land/4.png'),
       ],
-      title: 'JavaScript',
-      description: 'Le langage du web pour des applications dynamiques et interactives.',
+      title: 'Jeu Arcade',
+      description: 'Jeu d\'arcade développé avec Unity',
     },
     {
       images: [
-        require('@/assets/logo.png'),
-        'https://via.placeholder.com/150/0000FF',
-        'https://via.placeholder.com/150/FF0000',
+        require('@/assets/chess/4.png'),
+        require('@/assets/chess/1.png'),
+        require('@/assets/chess/2.png'),
+        require('@/assets/chess/3.png'),
       ],
-      title: 'Java',
-      description: 'Un langage robuste et multi-plateforme pour le développement d\'entreprise.',
+      title: 'Echec JavaFx',
+      description: 'Jeu d\'échec en javafx',
     },
   ]);
   

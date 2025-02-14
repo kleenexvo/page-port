@@ -53,10 +53,7 @@ const cards = ref([
   color: wheat;
 }
 
-.card:hover {
-  transform: scale(1.2);
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-}
+
 
 .card-image {
   width: 80px;

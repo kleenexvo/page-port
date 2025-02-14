@@ -84,9 +84,7 @@ body {
   transition: height 0.5s ease; /* Apply transition to the height */
   overflow: hidden; /* Prevent content from overflowing during transition */
 }
-.header:hover {
-  height: 20%; /* Hovered height */
-}
+
 
 .logo {
   width: 6%;
@@ -94,9 +92,6 @@ body {
   transition: transform 0.5s ease;
 }
 
-.header:hover .logo{
-  transform: scale(2) translateX(20%);
-}
 
 nav {
   display: flex;
@@ -136,7 +131,5 @@ button:hover {
   width: 10%;
 }
 
-* {
-  outline: 1px solid red;
-}
+
 </style>
